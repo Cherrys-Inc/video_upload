@@ -1,0 +1,21 @@
+.action{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding: 20px;
+}
+li{
+    list-style: none;
+}
+.head{
+    text-align: center;
+}
+.alert--text{
+    color:red;
+    font-weight: 400;
+}
+.green--text{
+    color:green;
+    font-weight: 400;
+}
