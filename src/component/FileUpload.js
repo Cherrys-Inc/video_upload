@@ -25,7 +25,7 @@ export default function FileUpload() {
         
         
     const handleChange = ({file}) => {
-        console.log(file)
+        
             
         if(file.type === "video/mp4")
         {   
